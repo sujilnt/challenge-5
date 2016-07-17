@@ -1,0 +1,60 @@
+html,body{
+    padding:0;
+    margin:0;
+}
+#header{
+    height:4%;
+    display: flex;
+    flex-wrap:wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#header blockquote {
+    order:2;
+    flex-basis: 68%;
+}
+#logo{
+    flex-basis: 10%;
+}
+#logo img {
+    /*margin-left: -13%;*/
+}
+#header h1{
+    display: none;
+}
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#content #content-side{
+    padding:0.5% 1% 0 3%;
+    flex-basis: 20%;
+    flex: 230px;
+}
+#content #content-main{
+    padding: 0 2%;
+    flex-basis: 60%;
+    line-height: 20px;
+    flex:70%;
+}
+#header blockquote p{
+    font-size: 220%;
+    /*margin-left: -20%;*/
+}
+a{
+    text-decoration: none;
+}
+#content #content-side a{
+    color: #B57D33;
+    text-transform: capitalize;
+    font-size: 110%;
+}
+#content dd{
+    margin:1.5% 0% 3% 8%;
+    line-height: 20px;
+}
+a:link{
+    color:grey;
+}
