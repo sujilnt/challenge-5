@@ -8,7 +8,8 @@ You'll need to hide the h1 somehow! (for some good tips on the best and most app
 Here is the image 
 
 ![ alt tag ](https://upload.wikimedia.org/wikipedia/commons/f/fe/Csschallenge5.png)
-Here is the Html code basedd on it apply the styles .
+
+#Here is the Html code basedd on it apply the styles .
 
 ```html
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
