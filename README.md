@@ -1,5 +1,7 @@
 # challenge-5
-This one's inspired by the design of clearleft. A nice clean look with lots of whitespace. Have fun!I solved this problem using Css Flexbox
+This one's inspired by the design of clearleft. A nice clean look with lots of whitespace. Have fun!
+
+I solved this problem using Css Flexbox
 
 Hints:
 
